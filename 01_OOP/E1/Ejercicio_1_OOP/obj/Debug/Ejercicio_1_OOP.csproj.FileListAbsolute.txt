@@ -19,3 +19,8 @@ C:\Users\ALVARO\source\repos\Ejercicio_1_OOP\Ejercicio_1_OOP\bin\Debug\Microsoft
 C:\Users\ALVARO\source\repos\Ejercicio_1_OOP\Ejercicio_1_OOP\bin\Debug\Resources\train.mp3
 C:\Users\ALVARO\source\repos\Ejercicio_1_OOP\Ejercicio_1_OOP\bin\Debug\Resources\truck.mp3
 C:\Users\ALVARO\source\repos\Ejercicio_1_OOP\Ejercicio_1_OOP\bin\Debug\Resources\car.mp3
+J:\Academia_DOTNET\DN5_Alvaro_Rodriguez\01_OOP\E1\Ejercicio_1_OOP\obj\Debug\Ejercicio_1_OOP.csproj.AssemblyReference.cache
+J:\Academia_DOTNET\DN5_Alvaro_Rodriguez\01_OOP\E1\Ejercicio_1_OOP\obj\Debug\Ejercicio_1_OOP.csproj.SuggestedBindingRedirects.cache
+J:\Academia_DOTNET\DN5_Alvaro_Rodriguez\01_OOP\E1\Ejercicio_1_OOP\obj\Debug\Ejercicio_1_OOP.csproj.CoreCompileInputs.cache
+J:\Academia_DOTNET\DN5_Alvaro_Rodriguez\01_OOP\E1\Ejercicio_1_OOP\obj\Debug\Ejercicio_1_OOP.exe
+J:\Academia_DOTNET\DN5_Alvaro_Rodriguez\01_OOP\E1\Ejercicio_1_OOP\obj\Debug\Ejercicio_1_OOP.pdb
