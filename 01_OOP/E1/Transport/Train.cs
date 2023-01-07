@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AudioManager
 {
-    public class Train : Transport
+    public class Train : Vehicle
     {
         public override void TransportSound()
         {

@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;7777using AudioManager;
+using System.Threading;
+using System.Threading.Tasks;
+using AudioManager;
 
 namespace Ejercicio_1_OOP
 {
@@ -10,13 +12,14 @@ namespace Ejercicio_1_OOP
     {
         static void Main(string[] args)
         {
-            while (true)
+            int count = 0;
+            while (count < 10)
             {
                 Console.WriteLine("Type the transport");
 
                 String AnimalType = Console.ReadLine().ToLower();
 
-                Transport transport = null;
+                Vehicle transport = null;
 
                 switch (AnimalType)
                 {
@@ -44,8 +47,9 @@ namespace Ejercicio_1_OOP
                 {
                     transport.TransportSound();
                 }
-
+                count++;
             }
+            Console.WriteLine("Program finalized");
         }
     }
 }

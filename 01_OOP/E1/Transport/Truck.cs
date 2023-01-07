@@ -7,7 +7,7 @@ using NAudio.Wave;
 
 namespace AudioManager
 {
-    public class Truck : Transport
+    public class Truck : Vehicle
     {
         public override void TransportSound()
         {
