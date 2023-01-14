@@ -32,6 +32,14 @@ namespace DataTypes
 
             Console.WriteLine(timeStamp1.TotalMilliseconds);
 
+            string test = "15";
+
+            string booleanValue = "true";
+
+            bool isTrue = bool.Parse(booleanValue);
+
+            age = int.Parse(test);
+
             Console.ReadKey();
 
         }
