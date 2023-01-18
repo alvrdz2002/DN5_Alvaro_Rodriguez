@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\DataTypes",
-    "\\DataTypes\\DataTypes"
+    "\\DataTypes\\DataTypes",
+    "\\DataTypes\\DataTypes.Web",
+    "\\DataTypes\\DataTypes.Web\\views",
+    "\\DataTypes\\DataTypes.Web\\views\\Home",
+    "\\DataTypes\\DataTypes.Web\\wwwroot"
   ],
-  "SelectedNode": "\\DataTypes\\DataTypes\\Program.cs",
+  "SelectedNode": "\\DataTypes\\DataTypes.Web\\wwwroot\\dataTypes.js",
   "PreviewInSolutionExplorer": false
 }
