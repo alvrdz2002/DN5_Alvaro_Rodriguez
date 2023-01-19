@@ -8,6 +8,6 @@
     "\\DataTypes\\DataTypes.Web\\views\\Home",
     "\\DataTypes\\DataTypes.Web\\wwwroot"
   ],
-  "SelectedNode": "\\DataTypes\\DataTypes.Web\\wwwroot\\dataTypes.js",
+  "SelectedNode": "\\DataTypes\\DataTypes.Web\\Startup.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,16 @@
+J:\Academia_DOTNET\DN5_Alvaro_Rodriguez\02_WebDeveloment\T4\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.exe
+J:\Academia_DOTNET\DN5_Alvaro_Rodriguez\02_WebDeveloment\T4\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.deps.json
+J:\Academia_DOTNET\DN5_Alvaro_Rodriguez\02_WebDeveloment\T4\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.runtimeconfig.json
+J:\Academia_DOTNET\DN5_Alvaro_Rodriguez\02_WebDeveloment\T4\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.runtimeconfig.dev.json
+J:\Academia_DOTNET\DN5_Alvaro_Rodriguez\02_WebDeveloment\T4\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.dll
+J:\Academia_DOTNET\DN5_Alvaro_Rodriguez\02_WebDeveloment\T4\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.pdb
+J:\Academia_DOTNET\DN5_Alvaro_Rodriguez\02_WebDeveloment\T4\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.csproj.AssemblyReference.cache
+J:\Academia_DOTNET\DN5_Alvaro_Rodriguez\02_WebDeveloment\T4\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+J:\Academia_DOTNET\DN5_Alvaro_Rodriguez\02_WebDeveloment\T4\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.AssemblyInfoInputs.cache
+J:\Academia_DOTNET\DN5_Alvaro_Rodriguez\02_WebDeveloment\T4\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.AssemblyInfo.cs
+J:\Academia_DOTNET\DN5_Alvaro_Rodriguez\02_WebDeveloment\T4\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.csproj.CoreCompileInputs.cache
+J:\Academia_DOTNET\DN5_Alvaro_Rodriguez\02_WebDeveloment\T4\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.dll
+J:\Academia_DOTNET\DN5_Alvaro_Rodriguez\02_WebDeveloment\T4\DataTypes\DataTypes\obj\Debug\net5.0\refint\DataTypes.dll
+J:\Academia_DOTNET\DN5_Alvaro_Rodriguez\02_WebDeveloment\T4\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.pdb
+J:\Academia_DOTNET\DN5_Alvaro_Rodriguez\02_WebDeveloment\T4\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.genruntimeconfig.cache
+J:\Academia_DOTNET\DN5_Alvaro_Rodriguez\02_WebDeveloment\T4\DataTypes\DataTypes\obj\Debug\net5.0\ref\DataTypes.dll
