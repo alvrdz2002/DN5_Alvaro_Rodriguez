@@ -4,8 +4,9 @@
     "\\GymManager.Web",
     "\\GymManager.Web\\GymManager.Web",
     "\\GymManager.Web\\GymManager.Web\\Views",
-    "\\GymManager.Web\\GymManager.Web\\Views\\Members"
+    "\\GymManager.Web\\GymManager.Web\\Views\\Members",
+    "\\GymManager.Web\\GymManager.Web\\wwwroot"
   ],
-  "SelectedNode": "\\GymManager.Web\\GymManager.Web\\Views\\Members",
+  "SelectedNode": "\\GymManager.Web\\GymManager.Web\\wwwroot\\Styles.css",
   "PreviewInSolutionExplorer": false
 }

@@ -13,5 +13,5 @@ namespace GymManager.Web.Controllers
         {
             return View();
         }
-    }
+    }                       
 }
